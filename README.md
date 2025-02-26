@@ -4,7 +4,7 @@
 ---
 
 ## *🛡️ About Me*  
-I’m a cybersecurity scripting specialist obsessed with *automating defenses* and *outsmarting adversaries* through code.  
+I’m a cybersecurity scripting Enthusiast obsessed with *automating defenses* and *outsmarting adversaries* through code.  
 - 🔭 *Focus Areas:*  
   - Building tools for threat detection, incident response, and vulnerability remediation.  
   - Streamlining security workflows with Python, PowerShell, and Bash.  
